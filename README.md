@@ -1,0 +1,2 @@
+# googren
+go öğreniyorum.
